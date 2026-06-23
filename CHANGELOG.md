@@ -5,6 +5,5 @@
 ### Added
 
 - Initial `discovery` extension manifest and usage documentation.
-- Added `speckit.discovery.feasibility`, `speckit.discovery.techselect`, `speckit.discovery.codebase`, and `speckit.discovery.poc` commands.
-- Added vertical technology decision commands for API integration, performance, data migration, UX workflow, and compatibility risks.
-- Added `speckit.discovery.codebase-api-imp` for source-backed implementation overviews of existing APIs and interfaces.
+- Added `speckit.discovery.feasibility`, `speckit.discovery.techselect`, `speckit.discovery.decision`, `speckit.discovery.codebase`, `speckit.discovery.codebase-api-imp`, and `speckit.discovery.poc` commands.
+- Added `speckit.discovery.decision` types for API integration, performance, data migration, UX workflow, and compatibility risks.
