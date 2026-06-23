@@ -3,7 +3,7 @@ schema_version: "1.0"
 extension:
   id: "discovery"
   name: "Spec Kit Discovery Extension"
-  version: "0.1.0"
+  version: "0.2.0"
   description: "Run technical discovery commands for feasibility, technology selection, scenario-specific technical decisions, legacy codebase assessment, implementation understanding, and proof-of-concept validation."
   author: "bigsmartben"
   repository: "https://github.com/bigsmartben/spec-kit-discovery"
